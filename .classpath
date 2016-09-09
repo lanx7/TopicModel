@@ -2,7 +2,16 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry kind="lib" path="/home/lanx/tm/Mallet/dist/mallet.jar"/>
-	<classpathentry kind="lib" path="/home/lanx/tm/Mallet/dist/mallet-deps.jar"/>
+	<classpathentry kind="lib" path="/home/lanx/develop/MalletTest/libs/mallet.jar"/>
+	<classpathentry kind="lib" path="/home/lanx/develop/MalletTest/libs/mallet-deps.jar"/>
+	<classpathentry kind="lib" path="/home/lanx/.m2/repository/org/glassfish/hk2/external/javax.inject/2.4.0-b09/javax.inject-2.4.0-b09.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.glassfish.hk2.external"/>
+			<attribute name="maven.artifactId" value="javax.inject"/>
+			<attribute name="maven.version" value="2.4.0-b09"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
